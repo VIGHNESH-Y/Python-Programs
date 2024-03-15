@@ -50,6 +50,6 @@ while ch!=7:
     elif ch==7:
         break
     else:
-        print("Enter a Valid Choice")
+        print("Please Enter a Valid Choice")
         
             
